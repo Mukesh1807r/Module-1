@@ -19,7 +19,12 @@ To write a python program for bitwise shift operators on the given integers.
 7.Terminate the program.
 
 ## PROGRAM
+```
+Name : Mukesh R
+Reg : 212224240098
+```
 
+```python
 a=int(input())
 
 b=int(input())
@@ -27,6 +32,7 @@ b=int(input())
 print(a>>b)
 
 print(a<<b)
+```
 
 
 ## OUTPUT
